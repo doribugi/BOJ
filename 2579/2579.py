@@ -1,6 +1,3 @@
-# !/usr/bin/python
-# -*- coding: utf-8 -*-
-
 """
 문제: https://www.acmicpc.net/problem/2579
 풀이: Dynamic Programing.

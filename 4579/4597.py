@@ -1,6 +1,3 @@
-# !/usr/bin/python
-# -*- coding: utf-8 -*-
-
 """
 문제: https://www.acmicpc.net/problem/4597
 풀이: 입력 값의 1의 갯수가 짝수인지 홀수인지, 패리티가 e인지 o 인지에 따라 마지막 숫자를 결정

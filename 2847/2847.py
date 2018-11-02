@@ -1,6 +1,3 @@
-# !/usr/bin/python
-# -*- coding: utf-8 -*-
-
 """
 문제: https://www.acmicpc.net/problem/2847
 풀이: 주어진 수들을 역순으로 순회하며 이전 수보다 큰 경우 (이전 수 - 1)로 만든다.
