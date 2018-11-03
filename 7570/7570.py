@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 """
 문제: https://www.acmicpc.net/problem/7570
 풀이: 줄 서 있는 아이들 중 연속되는 숫자로 가장 길게 정렬된 그룹을 제외한 아이들의 수가 답이다.

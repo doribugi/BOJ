@@ -1,6 +1,3 @@
-# !/usr/bin/python
-# -*- coding: utf-8 -*-
-
 """
 문제: https://www.acmicpc.net/problem/1260
 풀이: DFS는 스택을 이용하여 순회 (스택에 정점을 넣을 때는 역순으로 넣어야 작은 것부터 순회할 수 있음)

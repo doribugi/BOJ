@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 """
 문제: https://www.acmicpc.net/problem/14709
 풀이: (1, 3), (4, 3), (1, 4) 가 들어오면 여우 사인 (입력 순서, 쌍의 순서 바뀔 수 있음)

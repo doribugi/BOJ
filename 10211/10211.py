@@ -1,6 +1,3 @@
-# !/usr/bin/python
-# -*- coding: utf-8 -*-
-
 """
 문제: https://www.acmicpc.net/problem/10211
 풀이: 누적 합이 0보다 작아지면 다시 누적 합 계산하는 방식으로 가장 큰 누적합 찾기
