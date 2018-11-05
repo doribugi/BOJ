@@ -1,5 +1,5 @@
 # 문제: https://www.acmicpc.net/problem/1181
-# 풀이: 문자열 길이와 문자열로 정렬
+# 풀이: 문자열 길이와 문자열로 정렬하여 중복빼고 출력
 import sys
 n = int(sys.stdin.readline())
 words = [sys.stdin.readline().rstrip() for _ in range(n)]
