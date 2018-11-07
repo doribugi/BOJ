@@ -1,5 +1,5 @@
 # 문제: https://www.acmicpc.net/problem/10845
-# 풀이: 문제에 주어진 명령을 조건문으로 
+# 풀이: 주어진 명령을 조건문으로 확인하여 수행
 import sys
 import queue
 n = int(sys.stdin.readline())
